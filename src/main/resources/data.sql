@@ -1,0 +1,1 @@
+insert into game (id, name, number_of_players) values (1, 'test', 4)
